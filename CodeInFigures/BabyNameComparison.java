@@ -4,8 +4,8 @@
 public class BabyNameComparison {
     public static void main(String []args){
         String name1 = "Hugo";
-        String name2 = "Jack";
-        String name3 = "Charlie";
+        String name2 = "David";
+        String name3 = "Dell";
 
         System.out.println(name1 + " " + name2);
         System.out.println(name1 + " " + name3);

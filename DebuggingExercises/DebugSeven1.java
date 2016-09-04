@@ -13,9 +13,9 @@ public class DebugSeven1
       if(name1.equals((name3)))
         System.out.println(name1 + " and " + name3 +
           " are the same");
-      if(name1.equals(name2))
+      if(name2.equals("roger"))
         System.out.println(name1 + " and 'roger' are the same");
-      if(name1.equals(name2))
+      if(name2.equals("Roger"))
         System.out.println(name1 + " and 'Roger' are the same");
    }
 }
