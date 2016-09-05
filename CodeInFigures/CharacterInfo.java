@@ -5,6 +5,7 @@ public class CharacterInfo
    public static void main(String[] args)
    {
       Scanner input = new Scanner(System.in);
+      System.out.println("enter: ");
       String aChar1 = input.nextLine();
       char aChar= aChar1.charAt(0);    //converts string to char
 
